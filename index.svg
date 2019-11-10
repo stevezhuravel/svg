@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.0.13/polyfills.js">
+<body>
+
+<svg width="400" height="110">
+  <rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
+    
+</svg>
+ 
+
+</head>
+</body>
+</html>
